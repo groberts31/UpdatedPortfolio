@@ -1,9 +1,14 @@
 .name {
     float: left;
     font-family: 'Courier New', Courier, monospace;
+    padding-top: 1%;
+    padding-left: 9%;
+    background-color: rgb(170, 170, 170);
 }
 .navbarlinks {
     float: right;
+    padding-top: 1%;
+    padding-right: 9%;
 }
 #jumboBack {
     background-image: url("assets/images/vintage-wallpaper.png");
@@ -15,12 +20,22 @@
 }
 .aboutMe {
     float: left;
-    padding: 1%;
+    padding-bottom: 0%;
+    padding-left: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 4vw;
 }
 .iconLinks {
     float: right;
     padding: 1%;
 }
-.topArea {
+.card-footer {
+    background-color: black;
+}
+.nav-item {
     
+}
+#entireArea {
+    background-color: rgb(170, 170, 170);
 }
