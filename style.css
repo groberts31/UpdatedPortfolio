@@ -56,15 +56,18 @@
 }
 a:link {
     color: rgb(11, 11, 90);
+    text-decoration: none;
 }
 a:visited {
     color: black;
+    text-decoration: none;
 }
 .banners {
     text-align: center;
     padding: 1%;
     border: solid;
     background-color: white;
+    text-decoration: none;
 }
 #portBack {
     background-color: rgb(170, 170, 170);
