@@ -5,6 +5,10 @@
 .navbarlinks {
     float: right;
 }
-.jumbotron {
+#jumboBack {
     background-image: url("assets/images/vintage-wallpaper.png");
+    height: auto;
+}
+#jumboInfo {
+    background-color: white;
 }
