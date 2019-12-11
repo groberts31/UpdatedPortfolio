@@ -11,4 +11,13 @@
 }
 #jumboInfo {
     background-color: white;
+    padding: 0%;
+}
+.aboutMe {
+    float: left;
+    padding: 1%;
+}
+.iconLinks {
+    float: right;
+    padding: 1%;
 }
