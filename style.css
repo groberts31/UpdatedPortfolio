@@ -5,3 +5,6 @@
 .navbarlinks {
     float: right;
 }
+.jumbotron {
+    background-image: url("assets/images/vintage-wallpaper.png");
+}
