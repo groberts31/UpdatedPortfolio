@@ -1,6 +1,6 @@
 .name {
     float: left;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
     padding-top: 1%;
     padding-left: 9%;
     background-color: rgb(170, 170, 170);
@@ -9,6 +9,7 @@
     float: right;
     padding-top: 1%;
     padding-right: 9%;
+    height: auto;
 }
 #jumboBack {
     background-image: url("assets/images/vintage-wallpaper.png");
@@ -17,14 +18,17 @@
 #jumboInfo {
     background-color: white;
     padding: 0%;
+    border: solid;
 }
 .aboutMe {
+    color: rgb(25, 25, 97);
     float: left;
     padding-bottom: 0%;
     padding-left: 1%;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 4vw;
+    text-align: center;
 }
 .iconLinks {
     float: right;
@@ -33,9 +37,21 @@
 .card-footer {
     background-color: black;
 }
-.nav-item {
-    
-}
 #entireArea {
     background-color: rgb(170, 170, 170);
+}
+#resume {
+    float: right;
+    padding: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#icons {
+    float: right;
+    padding: 1%;
+}
+a:link {
+    color: rgb(11, 11, 90);
+}
+a:visited {
+    color: black;
 }
