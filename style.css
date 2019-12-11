@@ -13,7 +13,6 @@
 }
 #jumboBack {
     background-image: url("assets/images/vintage-wallpaper.png");
-    height: auto;
 }
 #jumboInfo {
     background-color: white;
@@ -65,11 +64,13 @@ a:visited {
 .banners {
     text-align: center;
     padding: 1%;
-    border: solid;
-    background-color: white;
     text-decoration: none;
+    font-size: 1.5vw;
 }
 #portBack {
     background-color: rgb(170, 170, 170);
     padding: 1%;
+}
+.rowEqual {
+    border: solid;
 }
