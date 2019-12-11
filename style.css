@@ -60,3 +60,13 @@ a:link {
 a:visited {
     color: black;
 }
+.banners {
+    text-align: center;
+    padding: 1%;
+    border: solid;
+    background-color: white;
+}
+#portBack {
+    background-color: rgb(170, 170, 170);
+    padding: 1%;
+}
