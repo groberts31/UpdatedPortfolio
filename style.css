@@ -36,6 +36,11 @@
 }
 .card-footer {
     background-color: black;
+    width: 110%;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
 #entireArea {
     background-color: rgb(170, 170, 170);
