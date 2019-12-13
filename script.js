@@ -1,3 +1,5 @@
+// Script to save contact info to webpage once taught feature
+
 $(document).ready(function () {
     $("#submit").click(function () {
         var name = $("#name").val();
