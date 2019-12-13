@@ -25,4 +25,4 @@ Updated Portfolio with actual info about me and styled better...
 
 <p>As of right now, you will not be able to submit your contact information. It is still a work in progress and I hope to have it up and running soon.</p>
 
-![Screenshot](assets/images/port3.png)
+![Screenshot](assets/images/port4.png)
