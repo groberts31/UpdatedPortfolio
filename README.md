@@ -23,4 +23,6 @@ Updated Portfolio with actual info about me and styled better...
 
 <p>Please be aware that you will need to at least have the required fields entered with info to submit your contact information.</p>
 
+<p>As of right now, you will not be able to submit your contact information. It is still a work in progress and I hope to have it up and running soon.</p>
+
 ![Screenshot](assets/images/port3.png)
